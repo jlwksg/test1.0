@@ -1,0 +1,2 @@
+new file
+Will this file be commit when execute "commit -a" instruction
